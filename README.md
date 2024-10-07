@@ -7,6 +7,12 @@ Bem-vindo ao **MultiApp**! Este projeto Android foi criado com o intuito de prop
 - **Jogos Diversificados:** Mergulhe em uma variedade de jogos emocionantes que vão desafiar sua mente e proporcionar horas de diversão!
 - **Ferramentas Úteis:** Descubra ferramentas práticas que ajudam a otimizar suas atividades diárias e melhorar sua produtividade.
 
+## 📹 Vídeo Demonstração
+
+Confira nosso vídeo de demonstração para ver o aplicativo em ação!
+
+[Assista ao vídeo aqui!](https://drive.google.com/file/d/1PS5o6UZlHdnpkKbE5gLPhKEF7MQx1Mv3/view?usp=sharing)
+
 ## 📱 MainActivity - Atividade Principal
 
 A **MainActivity** é a tela inicial do aplicativo, que exibe uma lista de opções através de um RecyclerView. Cada item da lista corresponde a uma funcionalidade diferente, e o usuário pode clicar para navegar até essa funcionalidade.
