@@ -83,6 +83,13 @@ A **CaraCoroaActivity** permite ao usuário jogar cara ou coroa de forma simples
 ### Principais funcionalidades:
 - **Jogar Cara ou Coroa**: O app simula um lançamento de moeda aleatório e exibe o resultado (cara ou coroa).
 - **Animação**: Animação visual ao mostrar o resultado do lançamento.
+- **Entrada dos Jogadores**: Permite que dois jogadores insiram seus nomes antes de jogar.
+- **Pontuação**: Os jogadores podem acompanhar a pontuação ao longo das rodadas.
+
+### Interação com o Usuário:
+1. O jogador insere seus nomes nos campos designados.
+2. Ao clicar no botão "Jogar", o app valida a entrada e inicia o jogo.
+3. O resultado do lançamento da moeda é exibido com uma animação, mostrando visualmente se foi "cara" ou "coroa".
 
 ---
 
@@ -93,7 +100,7 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo:
 1. Clone o repositório:
    ```bash
    git clone https://github.com/seu-usuario/seu-repositorio.git
-   ## 🚀 Como Rodar o Projeto
+
 
 2. Abra o projeto no Android Studio.
 3. Conecte um dispositivo físico ou emulador.
