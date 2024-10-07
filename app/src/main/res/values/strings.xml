@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">MultiApp</string>
+    <string name="infomacoes">Infomações</string>
+    <string name="criadorMultiApp">Wanderson Brito</string>
+
+    <!-- Opções que o usuário vai poder escolher -->
+    <string name="opcao1">Frases do Dia</string>
+    <string name="opcao2">Jokenpô</string>
+    <string name="opcao3">Álcool ou Gasolina</string>
+    <string name="opcao4">Calculadora de Gorjeta</string>
+    <string name="opcao5">CardView</string>
+    <string name="opcao6">Cara ou Coroa</string>
+
+    <!-- Strings Tela Frases do Dia -->
+    <string name="clique_botao">Clique no botão abaixo:</string>
+
+    <!-- String Tela Alcool ou Gasolina -->
+    <string name="preco_alcool">Preço Álcool Ex: 1.90</string>
+    <string name="preco_gasolina">Preço Gasolina Ex: 2.60</string>
+    <string name="calcular">Calcular</string>
+
+    <!-- Strings Tela Calculadora de Gorjeta -->
+    <string name="valor_porcentagem">0 %</string>
+    <string name="gorjeta">Gorjeta</string>
+    <string name="valor_inicial">R$ 0,00</string>
+    <string name="total">Total</string>
+    <string name="digite_um_valor">Digite um valor ex: 25.50</string>
+
+    <!-- Strings Tela CardView -->
+    <string name="nome_usuario">Wanderson Brito</string>
+    <string name="data_post">Agora mesmo</string>
+    <string name="descricao_postagem">#tbt viagem legal</string>
+    <string name="gostei">Gostei</string>
+    <string name="comentar">Comentar</string>
+
+    <!-- Strings Tela Cara ou Coroa -->
+    <string name="descricao_btn_1">Botão jogar cara coroa</string>
+    <string name="button_CaraCoroa">Jogar</string>
+    <string name="nome_do_jogador_1">Nome do Jogador 1</string>
+    <string name="jogador_1_cara">Jogador 1 (Cara)</string>
+    <string name="jogador_2_coroa">Jogador 2 (Coroa)</string>
+    <string name="nome_do_jogador_2">Nome do Jogador 2</string>
+    <string name="button_girar_moeda">Girar</string>
+    <string name="cara">Cara</string>
+    <string name="coroa">Coroa</string>
+
+
+</resources>

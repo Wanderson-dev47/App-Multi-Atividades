@@ -1,0 +1,16 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.MultiApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="Theme.MultiApp" parent="Base.Theme.MultiApp" />
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#EA4796</item>
+        <item name="colorPrimaryDark">#490087</item>
+        <item name="colorAccent">#9C27B0</item>
+        <item name="android:colorBackground">#A0A0A0</item>
+    </style>
+</resources>

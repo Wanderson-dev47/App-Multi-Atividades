@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple xmlns:android="http://schemas.android.com/apk/res/android"
+    android:color="@android:color/holo_blue_bright">
+    <!--Com a animação de ripple effect para o quando botão for clicado-->
+
+    <item>
+        <shape android:shape="rectangle">
+
+            <!-- Cor de fundo -->
+            <solid android:color="#18181B" />
+
+            <!-- Border radius -->
+            <corners android:radius="16dp" />
+        </shape>
+    </item>
+
+</ripple>
