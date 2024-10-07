@@ -9,7 +9,7 @@ Bem-vindo ao **MultiApp**! Este projeto Android foi criado com o intuito de prop
 
 ## 📹 Vídeo Demonstração
 
-Confira nosso vídeo de demonstração para ver o aplicativo em ação!
+Confira o vídeo de demonstração para ver o aplicativo em ação!
 
 [Assista ao vídeo aqui!](https://drive.google.com/file/d/1PS5o6UZlHdnpkKbE5gLPhKEF7MQx1Mv3/view?usp=sharing)
 
