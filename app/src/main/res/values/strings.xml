@@ -1,7 +1,17 @@
 <resources>
     <string name="app_name">MultiApp</string>
     <string name="infomacoes">Infomações</string>
-    <string name="criadorMultiApp">Wanderson Brito</string>
+
+    <!-- Strings Tela Info -->
+    <string name="string_aplicativo">Sobre o Aplicativo</string>
+    <string name="fechar">Fechar</string>
+    <string name="desenvolvido_por">Desenvolvido por:</string>
+    <string name="desenvolvedor">wanderson-dev47</string>
+    <string name="versao_app">Versão: 1.0.0</string>
+    <string name="descricao_app">O Multi App é aplicação versátil criada para integrar múltiplas tarefas em um só lugar.</string>
+    <string name="intuito_app">Este aplicativo teve seu desenvolvimento com foco em aprendizado e melhoria contínua.</string>
+    <string name="imagem_perfil">imagem perfil</string>
+    <string name="botao_info">botoa info</string>
 
     <!-- Opções que o usuário vai poder escolher -->
     <string name="opcao1">Frases do Dia</string>

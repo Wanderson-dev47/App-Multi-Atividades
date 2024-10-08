@@ -1,9 +1,11 @@
 package dominando.android.multiapp.activity;
 
+import android.annotation.SuppressLint;
 import android.content.Intent;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.AdapterView;
+import android.widget.ImageButton;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
@@ -14,6 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 import dominando.android.multiapp.R;
+import dominando.android.multiapp.fragments.InfoFragment;
 import dominando.android.multiapp.listener.RecyclerItemClickListener;
 import dominando.android.multiapp.adapter.AdapterOpcoes;
 import dominando.android.multiapp.model.OpcaoEscolha;
@@ -26,6 +29,16 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        // Listener para abrir o sobre do aplicativo
+        @SuppressLint({"MissingInflatedId", "LocalSuppress"})
+        ImageButton btnInfo = findViewById(R.id.btnInfo);
+
+        btnInfo.setOnClickListener(view -> getSupportFragmentManager().beginTransaction()
+                .setCustomAnimations(android.R.anim.fade_in, android.R.anim.fade_out)
+                .replace(R.id.mainActivity, new InfoFragment())
+                .addToBackStack(null) // Adiciona a transação à pilha de volta
+                .commit());
 
         RecyclerView recyclerView = findViewById(R.id.recyclerView);
 

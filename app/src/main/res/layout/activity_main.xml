@@ -8,18 +8,16 @@
     android:background="@drawable/gradient_fundo"
     tools:context=".activity.MainActivity">
 
-    <TextView
-        android:id="@+id/info"
+    <ImageButton
+        android:id="@+id/btnInfo"
         android:layout_width="wrap_content"
+        android:layout_margin="10dp"
+        android:contentDescription="@string/botao_info"
         android:layout_height="wrap_content"
-        android:layout_marginBottom="10dp"
-        android:layout_marginStart="10dp"
-        android:backgroundTint="#00FFFFFF"
-        android:contentDescription="@string/infomacoes"
-        android:text="@string/criadorMultiApp"
-        android:textColor="@color/white"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintStart_toStartOf="parent" />
+        android:background="#00FFFFFF"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/info_icon" />
 
 
     <TextView
