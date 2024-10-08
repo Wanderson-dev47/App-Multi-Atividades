@@ -104,7 +104,7 @@ A **CaraCoroaActivity** permite ao usuário jogar cara ou coroa de forma simples
 
 ---
 
-# 🚀 Meu Aplicativo Multi App
+## 🚀 Como Rodar o Projeto:
 
 Este é um aplicativo desenvolvido para [descrição do aplicativo], oferecendo uma experiência de aprendizado integrada e prática.
 
