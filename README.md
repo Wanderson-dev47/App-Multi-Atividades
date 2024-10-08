@@ -133,3 +133,4 @@ Você pode instalar o aplicativo diretamente no seu dispositivo Android sem a ne
 - **Adapter**: Para vincular dados ao RecyclerView e gerenciar a exibição dos itens.
 - **Model**: Para representar os dados e suas estruturas.
 - **Listener**: Para gerenciar interações do usuário, como cliques em itens da lista.
+- **Fragment**: Para mostrar a tela sobre do aplicativo.
