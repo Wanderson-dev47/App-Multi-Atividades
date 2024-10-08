@@ -24,14 +24,16 @@
 
     <TextView
         android:id="@+id/appNome"
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="20dp"
         android:text="@string/app_name"
         android:textAlignment="center"
         android:textColor="@color/white"
         android:textSize="34sp"
+        android:drawablePadding="10dp"
         android:textStyle="bold"
+        app:drawableLeftCompat="@drawable/logo_multi_app"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
