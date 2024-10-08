@@ -104,18 +104,28 @@ A **CaraCoroaActivity** permite ao usuário jogar cara ou coroa de forma simples
 
 ---
 
-## 🚀 Como Rodar o Projeto
+# 🚀 Meu Aplicativo Multi App
 
-Para rodar este projeto em sua máquina local, siga os passos abaixo:
+Este é um aplicativo desenvolvido para [descrição do aplicativo], oferecendo uma experiência de aprendizado integrada e prática.
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+## 📦 Instalação do APK
 
+Você pode instalar o aplicativo diretamente no seu dispositivo Android sem a necessidade de ter acesso ao Android Studio. Siga os passos abaixo:
 
-2. Abra o projeto no Android Studio.
-3. Conecte um dispositivo físico ou emulador.
-4. Rode o projeto clicando no botão "Run" (Ícone de Play) no Android Studio.
+1. **Baixe o APK**:
+   - Acesse a seção de releases do repositório e baixe o arquivo APK mais recente:
+     - [Link para Releases](https://github.com/seu-usuario/seu-repositorio/releases)
+
+2. **Permita a instalação de aplicativos de fontes desconhecidas**:
+   - Ative a opção **Instalar aplicativos de fontes desconhecidas**. Se você estiver usando o Android 8.0 (Oreo) ou superior, será necessário permitir a instalação especificamente para o navegador ou gerenciador de arquivos que você usará para instalar o APK.
+
+3. **Instale o APK**:
+   - Localize o arquivo APK que você baixou, geralmente na pasta **Downloads**.
+   - Toque no arquivo APK para iniciar a instalação.
+   - Se aparecer uma mensagem de aviso de segurança do Google, não se preocupe! O aplicativo foi verificado e não contém vírus.
+
+4. **Conclua a instalação**:
+   - Siga as instruções na tela para concluir a instalação.
 
 ## 🛠️ Tecnologias Utilizadas
 
