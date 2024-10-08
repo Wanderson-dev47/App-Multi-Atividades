@@ -11,7 +11,7 @@ Bem-vindo ao **MultiApp**! Este projeto Android foi criado com o intuito de prop
 
 Confira o vídeo de demonstração para ver o aplicativo em ação!
 
-[Assista ao vídeo aqui!](https://drive.google.com/file/d/1PS5o6UZlHdnpkKbE5gLPhKEF7MQx1Mv3/view?usp=sharing)
+[Assista ao vídeo aqui!](https://drive.google.com/file/d/1JivyQtpl0UK4icaQ4rUmCqAXXLo_rZL_/view?usp=drive_link)
 
 ## 📱 MainActivity - Atividade Principal
 
@@ -110,7 +110,7 @@ A **CaraCoroaActivity** permite ao usuário jogar cara ou coroa de forma simples
 Você pode instalar o aplicativo diretamente no seu dispositivo Android sem a necessidade de ter acesso ao Android Studio. Siga os passos abaixo:
 
 1. **Baixe o APK**:
-   - [Baixe aqui!](https://drive.google.com/file/d/1BjnTMOAnwlQuLkmEbwe8bDu-8VCwaIyG/view?usp=drive_link)
+   - [Baixe aqui!](https://drive.google.com/file/d/1iRcgoV6-RjHUNv7roE3JEQqrx8HU8cm_/view?usp=drive_link)
 
 2. **Permita a instalação de aplicativos de fontes desconhecidas**:
    - Ative a opção **Instalar aplicativos de fontes desconhecidas**. Se você estiver usando o Android 8.0 (Oreo) ou superior, será necessário permitir a instalação especificamente para o navegador ou gerenciador de arquivos que você usará para instalar o APK.
