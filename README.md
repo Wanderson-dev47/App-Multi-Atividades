@@ -104,18 +104,24 @@ A **CaraCoroaActivity** permite ao usuário jogar cara ou coroa de forma simples
 
 ---
 
-## 🚀 Como Rodar o Projeto
+## 🚀 Como Rodar o Projeto:
+## 📦 Instalação do APK
 
-Para rodar este projeto em sua máquina local, siga os passos abaixo:
+Você pode instalar o aplicativo diretamente no seu dispositivo Android sem a necessidade de ter acesso ao Android Studio. Siga os passos abaixo:
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+1. **Baixe o APK**:
+   - [Baixe aqui!](https://drive.google.com/file/d/1BjnTMOAnwlQuLkmEbwe8bDu-8VCwaIyG/view?usp=drive_link)
 
+2. **Permita a instalação de aplicativos de fontes desconhecidas**:
+   - Ative a opção **Instalar aplicativos de fontes desconhecidas**. Se você estiver usando o Android 8.0 (Oreo) ou superior, será necessário permitir a instalação especificamente para o navegador ou gerenciador de arquivos que você usará para instalar o APK.
 
-2. Abra o projeto no Android Studio.
-3. Conecte um dispositivo físico ou emulador.
-4. Rode o projeto clicando no botão "Run" (Ícone de Play) no Android Studio.
+3. **Instale o APK**:
+   - Localize o arquivo APK que você baixou, geralmente na pasta **Downloads**.
+   - Toque no arquivo APK para iniciar a instalação.
+   - Se aparecer uma mensagem de aviso de segurança do Google, não se preocupe! O aplicativo foi verificado e não contém vírus.
+
+4. **Conclua a instalação**:
+   - Siga as instruções na tela para concluir a instalação.
 
 ## 🛠️ Tecnologias Utilizadas
 
@@ -127,3 +133,4 @@ Para rodar este projeto em sua máquina local, siga os passos abaixo:
 - **Adapter**: Para vincular dados ao RecyclerView e gerenciar a exibição dos itens.
 - **Model**: Para representar os dados e suas estruturas.
 - **Listener**: Para gerenciar interações do usuário, como cliques em itens da lista.
+- **Fragment**: Para mostrar a tela sobre do aplicativo.
